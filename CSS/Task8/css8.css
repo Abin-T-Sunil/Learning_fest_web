@@ -1,0 +1,10 @@
+.multicolor
+{
+    background-image: linear-gradient(to right,Red,Orange,Yellow,Green,blue,indigo,violet);
+    width:500px;
+}
+h1
+{
+    color:gray;
+    text-align: center;
+}

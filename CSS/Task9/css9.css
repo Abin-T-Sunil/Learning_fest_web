@@ -1,0 +1,24 @@
+#head1
+{
+    color: black;
+    text-decoration: overline;
+
+
+}#head2
+{
+    color: black;
+    text-decoration: line-through;
+    
+}
+#head3
+{
+    color: black;
+    text-decoration: underline;
+    
+}
+#head4
+{
+    color: black;
+    text-decoration: overline underline;
+    
+}

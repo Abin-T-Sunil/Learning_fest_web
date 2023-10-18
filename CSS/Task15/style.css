@@ -1,0 +1,50 @@
+.Form
+{
+    width:500px;
+    height:auto;
+    background: white;
+    padding:20px;
+    margin:8% auto 0;
+    text-align: center;
+    border: solid 2px;
+    border-color: black;
+    
+}
+body{
+    font-family: sans-serif;
+    background-image: url(banner.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.head
+{
+    text-align: center;
+}
+.text
+{
+    text-align: left;
+}
+.input-box
+{
+    
+    padding:8px;
+    margin:10px 0;
+    width:99%;
+    border: solid 1px;
+    border-color: lightgray;
+    border-radius: 20px;
+    background-color: lightgray;
+    outline:none;
+
+}
+button
+{
+    background-color: black;
+    color:white;
+    width:99%;
+    cursor:pointer;
+    outline: none;
+}
+    
+    

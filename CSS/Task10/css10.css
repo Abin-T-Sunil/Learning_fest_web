@@ -1,0 +1,30 @@
+#center
+{
+    text-align: center;
+    color: black;
+}
+#left
+{
+    text-align: left;
+    color: black;
+}
+#right
+{
+    text-align: right;
+    color: black;
+}
+.p1
+{
+    text-align: center;
+    color: black;
+}
+.p2
+{
+    text-align: left;
+    color: black;
+}
+.p3
+{
+    text-align: right;
+    color: black;
+}
