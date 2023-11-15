@@ -1,0 +1,30 @@
+body{
+  background-color:darkseagreen;
+}
+h1{
+  text-align: center;
+}
+.adder{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  height: 300px;
+}
+.sum_button{
+  height: 40px;
+  width: 300px;
+  margin: 30px;
+  border: none;
+  border-radius: 5px;
+}
+
+button{
+  margin-top: 30px;
+  height: 30px;
+  width: 300px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}

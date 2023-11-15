@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>ADDER</h1>
+    <div class="adder">
+      <div>
+        <input
+          class="sum_button"
+          id="sum1"
+          type="text"
+          placeholder="Number 1"
+        />
+      </div>
+      <div>
+        <input
+          class="sum_button"
+          id="sum2"
+          type="text"
+          placeholder="Number 2"
+        />
+      </div>
+      <div>
+        <button onclick="findSum()">Submit</button>
+      </div>
+      <h2>Sum: <span id="result">0</span></h2>
+    </div>
+    <script src="add.js"></script>
+  </body>
+</html>

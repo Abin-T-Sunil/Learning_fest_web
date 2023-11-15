@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+  color:white;
+}
+#box{
+  height: 130px;
+  width: 130px;
+  padding: 50px;
+  margin-top: 5%;
+  margin-left: 45%;
+  border: 5px solid gray;
+  border-radius: 10px;  
+  font-size:80px;
+  
+}
+h1{
+  text-align: center;
+}
+
+#roll_dice{
+  background-color: salmon;
+  border-radius: 6px;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-transform: uppercase;
+  width: 250px;
+  cursor: pointer;
+  margin-left: 45%;
+}
